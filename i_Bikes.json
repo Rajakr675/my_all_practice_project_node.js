@@ -1,0 +1,112 @@
+{
+    "cruiser": {
+        "kawasaki W175": {
+            "rent": 1250,
+            "count": 12
+        },
+        "Royal Enfield Hunter": {
+            "rent": 1200,
+            "count": 7
+        },
+        "Royal Enfield classic 350": {
+            "rent": 1350,
+            "count": 9
+        },
+        "TVS Ronin": {
+            "rent": 3245,
+            "count": 7
+        },
+        "Royal Enfield Meteor 350": {
+            "rent": 3456,
+            "count": 6
+        },
+        "Keeway V302C": {
+            "rent": 3456,
+            "count": 5678
+        }
+    },
+    "touring": {
+        "Kawasaki Versys 650": {
+            "rent": 7000,
+            "count": 12
+        },
+        "Honda CB500X": {
+            "rent": 6500,
+            "count": 10
+        },
+        "Benelli TRK 502": {
+            "rent": 6000,
+            "count": 9
+        },
+        "KTM 390 Adventure": {
+            "rent": 6250,
+            "count": 12
+        },
+        "Royal Enfield Interceptor 650": {
+            "rent": 5250,
+            "count": 9
+        },
+        "Bajaj Dominar 400": {
+            "rent": 4750,
+            "count": 12
+        }
+    },
+    "sports": {
+        "Suziki Gixxer SF 150": {
+            "rent": 2500,
+            "count": 16
+        },
+        "Bajaj Pulsar RS 200": {
+            "rent": 5000,
+            "count": 10
+        },
+        "Yamaha R15 V4": {
+            "rent": 4500,
+            "count": 9
+        },
+        "KTM RC 125": {
+            "rent": 2345,
+            "count": 11
+        },
+        "Suziki Gixxer SF 250": {
+            "rent": 4567,
+            "count": 10
+        }
+    },
+    "off-roads": {
+        "Royal Enfield Himalayan": {
+            "rent": 3452,
+            "count": 14
+        },
+        "BMW G 310 GS": {
+            "rent": 5679,
+            "count": 10
+        },
+        "BMW R 1250 GS Adventure": {
+            "rent": 3456,
+            "count": 11
+        },
+        "KTM 390 Adventure": {
+            "rent": 2345,
+            "count": 11
+        },
+        "Suziki Gixxer SF 250": {
+            "rent": 4567,
+            "count": 10
+        },
+        "Honda CRF1 100L Africa Twin": {
+            "rent": 5678,
+            "count": 16
+        },
+        "KTM 250 Adventure": {
+            "rent": 5677,
+            "count": 1
+        }
+    },
+    "limited-edition": {
+        "Neiman Marcus Limited Edition Fighter": {
+            "rent": 2510000,
+            "count": 12
+        }
+    }
+}
